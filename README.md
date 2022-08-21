@@ -1,7 +1,7 @@
 
 # Movie App
 
-Live: https://movieapp-fed.netlify.app/movie/walle
+Live: https://movieapp-fed.netlify.app/
 
 ## Features
 
