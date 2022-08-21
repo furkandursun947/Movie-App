@@ -1,6 +1,23 @@
-# Next.js + Tailwind CSS Example
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+# Movie App
+
+## Features
+
+- Builded with Next.js, React
+- Tailwind CSS
+- Sanity CMS
+- TypeScript
+
+
+
+![1](https://user-images.githubusercontent.com/32294454/185783925-4dd5a7cb-ec6f-45f8-927e-9105e8fe5799.png)
+
+![2](https://user-images.githubusercontent.com/32294454/185783927-4ad0000b-ec55-4187-8b34-f6061e38b660.png)
+
+![3](https://user-images.githubusercontent.com/32294454/185783929-24295ba7-24b9-4434-9733-33bcacf87aee.png)
+
+![4](https://user-images.githubusercontent.com/32294454/185783931-8d93f623-06ca-4096-ae91-e9669d06055d.png)
+
 
 ## Deploy your own
 
