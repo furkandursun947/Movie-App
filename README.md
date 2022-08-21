@@ -1,6 +1,8 @@
 
 # Movie App
 
+Live: https://movieapp-fed.netlify.app/movie/walle
+
 ## Features
 
 - Builded with Next.js, React
